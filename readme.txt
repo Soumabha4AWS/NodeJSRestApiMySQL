@@ -1,0 +1,1 @@
+http://localhost:8083/NodeJSRestApiOracle/get/all
